@@ -1,16 +1,16 @@
 # Icons on the footer
 rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: kmoses@my365.bellevue.edu    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "knmoses"
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin: https://www.linkedin.com/in/krystina-moses-a30a7731/         # Full URL
 pinterest:
 reddit:
 soundcloud:
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: "KrystinaMoses         # "twitter username"
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
