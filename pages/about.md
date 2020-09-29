@@ -6,5 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-This is a portfolio showcasing my current works in my graduate education as a Data Scientist from Bellevue University.
-
+Krystina Moses
+Orlando, FL
+Student at Bellevue University, Data Science
+Internal Control Quality Assurance Associate at Walt Disney World
