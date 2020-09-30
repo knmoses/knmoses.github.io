@@ -7,6 +7,9 @@ tags: [About, Archive]
 ---
 
 Krystina Moses
+
 Orlando, FL
+
 Student at Bellevue University, Data Science
+
 Internal Control Quality Assurance Associate at Walt Disney World
