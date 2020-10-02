@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Contact
-subtitle: contact information
+subtitle:
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
 ---
 
-EMAIL: kmoses@my365.bellevue.edu
+EMAIL: krystina.moses@gmail.com
