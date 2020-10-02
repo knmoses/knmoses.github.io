@@ -2,7 +2,7 @@
 layout: page
 title : Work 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "Current Projects" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
