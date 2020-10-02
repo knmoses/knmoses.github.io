@@ -7,4 +7,4 @@ link: https://github.com/knmoses/DSC510-Weather
 tags: [Lorem]
 ---
 
-![image]({{ https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat | relative_url }})
+![image]({{ https://github.com/knmoses/DSC510-Weather | relative_url }})
