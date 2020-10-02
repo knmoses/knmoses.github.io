@@ -7,4 +7,4 @@ link: https://github.com/knmoses/DSC510-Weather
 tags: [Lorem]
 ---
 
-![image]({{ page.img | relative_url }})
+![image]({{ page.img | https://github.com/knmoses/DSC510-Weather }})
