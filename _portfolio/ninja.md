@@ -6,6 +6,4 @@ date: April, 08 2014
 tags: [Lorem]
 ---
 
-![image][1]
-
-[1]: https://github.com/knmoses/DSC510-Weather
+![image]({{ page.img | relative_url }})
