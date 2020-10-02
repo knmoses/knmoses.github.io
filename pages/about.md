@@ -8,6 +8,9 @@ tags: [About, Archive]
 
 Krystina Moses
 
-Orlando, FL
+Currently residing in Orlando, FL
 
-Student at Bellevue University, Data Science
+Internal Control Quality Assurance Associate at Walt Disney World
+
+Salem State University, 2010 - BS Mathematics
+Bellevue University, 2020 - MS Data Science
