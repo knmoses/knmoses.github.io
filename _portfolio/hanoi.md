@@ -2,8 +2,9 @@
 layout: post
 title: Tower of Hanoi
 img: "assets/img/portfolio/toh.png"
-date: September 2014
+date: 04 October 2020
+tags: [Python, Portfolio]
 ---
 
 
-[DSC40](https://github.com/knmoses/DSC540)
+[DSC640](https://github.com/knmoses/DSC540)
