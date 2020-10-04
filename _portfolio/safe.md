@@ -7,4 +7,4 @@ date: August, 16 2014
 tags: [Ipsum]
 ---
 
-[DSC680 - News](https://github.com/knmoses/DSC680-News)
+[DSC520 - R](https://github.com/knmoses/DSC520-R)
