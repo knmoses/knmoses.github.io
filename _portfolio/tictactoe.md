@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Tic tac toe
+title: Diabetes
 feature-img: "assets/img/portfolio/ttt.png"
 img: "assets/img/portfolio/ttt.png"
-date: September 2014
+date: 04 October 2020
+tags: [Python, Portfolio]
 ---
 
 [DSC630 - Diabetes](https://github.com/knmoses/DSC630-Diabetes)
