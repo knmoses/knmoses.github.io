@@ -6,4 +6,4 @@ date: September 2014
 ---
 
 
-[DSC640 - Air vs Auto Safety](https://github.com/knmoses/DSC640-Air-vs-Auto-Safety)
+[DSC40](https://github.com/knmoses/DSC540)
