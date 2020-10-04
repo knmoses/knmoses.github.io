@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll
+title: Waste and Pollution
 feature-img: "assets/img/portfolio/cabin.png"
 img: "assets/img/portfolio/cabin.png"
 date: 04 October 2020
