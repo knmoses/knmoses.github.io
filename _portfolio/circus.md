@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Circus
+title: Names
 img: "assets/img/portfolio/circus.png"
 date: 04 October 2020
 tags: [Python, Portfolio]
