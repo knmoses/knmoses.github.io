@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Creative
+title: R
 feature-img: "assets/img/portfolio/safe.png"
 img: "assets/img/portfolio/safe.png"
-date: August, 16 2014
-tags: [Ipsum]
+date: 04 October 2020
+tags: [R, Portfolio]
 ---
 
 [DSC520 - R](https://github.com/knmoses/DSC520-R)
