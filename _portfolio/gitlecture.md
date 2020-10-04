@@ -6,4 +6,4 @@ date: 20-10-2017
 tags: [Lorem, Portfolio]
 ---
 
-[DSC630 - Diabetes](https://github.com/knmoses/DSC630-Diabetes)
+[DSC680 - Project 3](https://github.com/knmoses/DSC680-Project3)
