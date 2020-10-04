@@ -7,3 +7,6 @@ tags: [Lorem]
 ---
 
 ![image]({{ page.img | relative_url }})
+
+[DSC510 - Weather Information](https://github.com/knmoses/DSC510-Weather)
+
