@@ -1,9 +1,9 @@
 ---
 layout: post
-title: DSC 510
+title: Weather
 img: "assets/img/portfolio/ninja.png"
-date: April, 08 2014
-tags: [Lorem]
+date: 04 October 2020
+tags: [Python, Portfolio]
 ---
 
 ![image]({{ page.img | relative_url }})
