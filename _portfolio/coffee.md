@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Coffee
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
+feature-img: "assets/img/portfolio/coffee.png"
+img: "assets/img/portfolio/coffee.png"
 date: 04 October 2020
 tags: [Python]
 ---
