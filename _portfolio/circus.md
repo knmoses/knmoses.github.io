@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Names
+feature-img: "assets/img/portfolio/names.png"
 img: "assets/img/portfolio/names.png"
 date: 04 October 2020
 tags: [Python, Portfolio]
