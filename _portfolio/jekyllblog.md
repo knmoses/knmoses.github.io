@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Waste and Pollution
-feature-img: "assets/img/portfolio/cabin.png"
-img: "assets/img/portfolio/cabin.png"
+feature-img: "assets/img/portfolio/waste.png"
+img: "assets/img/portfolio/waste.png"
 date: 04 October 2020
 tags: [Python, Portfolio]
 ---
