@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weather
-img: "assets/img/portfolio/ninja.png"
+img: "assets/img/portfolio/weather.png"
 date: 04 October 2020
 tags: [Python, Portfolio]
 ---
