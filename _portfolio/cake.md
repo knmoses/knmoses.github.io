@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Air and Auto Safety
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
+feature-img: "assets/img/portfolio/airplane.png"
+img: "assets/img/portfolio/airplane.png"
 date: 04 October 2020
 tags: [Tableau, Portfolio]
 ---
