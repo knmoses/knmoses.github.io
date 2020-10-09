@@ -1,8 +1,8 @@
 ---
 layout: post
 title: News
-feature-img: "assets/img/portfolio/submarine.png"
-img: "assets/img/portfolio/submarine.png"
+feature-img: "assets/img/portfolio/news.png"
+img: "assets/img/portfolio/news.png"
 date: 04 October 2020
 tags: [Python, Portfolio]
 ---
