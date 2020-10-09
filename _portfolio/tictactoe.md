@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Diabetes
-feature-img: "assets/img/portfolio/ttt.png"
-img: "assets/img/portfolio/ttt.png"
+feature-img: "assets/img/portfolio/medical.png"
+img: "assets/img/portfolio/medical.png"
 date: 04 October 2020
 tags: [Python, Portfolio]
 ---
