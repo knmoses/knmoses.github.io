@@ -7,4 +7,8 @@ gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
 ---
 
-EMAIL: krystina.moses@gmail.com
+<form action="https://formspree.io/f/xleobgqn" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
