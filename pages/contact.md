@@ -7,4 +7,7 @@ gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
 ---
 
-EMAIL: knmoses@gmail.com
+Krystina Moses
+EMAIL: krystina.moses@gmail.co
+LinkedIn: Krystina Moses
+Twitter: @KrystinaMoses
