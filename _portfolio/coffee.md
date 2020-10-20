@@ -4,8 +4,12 @@ title: Coffee
 feature-img: "assets/img/portfolio/coffee.png"
 img: "assets/img/portfolio/coffee.png"
 date: 04 October 2020
-tags: [Python]
+tags: [R, Predictive Analytics]
 ---
 
+Class: Predictive Analytics
 
-[DSC 630 – Coffee Prices](https://github.com/knmoses/DSC630-Coffee-Prices)
+This project uses different techniques within R to determine the average monthly coffee price, per pound as well as other observations within the data.
+
+More Information: 
+[Coffee Prices](https://github.com/knmoses/DSC630-Coffee-Prices)
