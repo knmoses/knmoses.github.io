@@ -8,6 +8,9 @@ tags: [Gallery, Photo]
 ---
 
 Krystina Moses
-EMAIL: krystina.moses@gmail.co
+
+EMAIL: krystina.moses@gmail.com
+
 LinkedIn: Krystina Moses
+
 Twitter: @KrystinaMoses
