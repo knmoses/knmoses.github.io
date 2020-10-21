@@ -10,4 +10,4 @@ tags: [R, Predictive Analytics]
 This project uses different techniques within R to determine the average monthly coffee price, per pound as well as other observations within the data.
 
 More Information: 
-[Predictive Analytics](https://github.com/knmoses/DSC630-Coffee-Prices)
+[Predictive Analytics - Coffee](https://github.com/knmoses/DSC630-Coffee-Prices)
