@@ -7,9 +7,7 @@ date: 04 October 2020
 tags: [Tableau, Python, Presentation, Visualization]
 ---
 
-Class: Data Presentation & Visualization
-
 Visual presentation on Airline vs Automobile Safety. Python and Tableau were used.
 
 More information:
-[DSC640 - Air vs Auto Safety](https://github.com/knmoses/DSC640-Air-vs-Auto-Safety)
+[Data Presentation & Visualization](https://github.com/knmoses/DSC640-Air-vs-Auto-Safety)
