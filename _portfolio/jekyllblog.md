@@ -9,4 +9,4 @@ tags: [Python, Jupyter Notebook, Applied Data Science, EDA]
 Class: Applied Data Science
 
 More Information:
-[DSC 680 - Waste and Pollution](https://github.com/knmoses/DSC680-Waste-and-Pollution)
+[Applied Data Science - Waste and Pollution](https://github.com/knmoses/DSC680-Waste-and-Pollution)
