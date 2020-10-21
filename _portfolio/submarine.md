@@ -7,7 +7,5 @@ date: 04 October 2020
 tags: [Python, Applied Data Science, Jupyter Notebook]
 ---
 
-Class: Applied Data Science
-
 More Information:
-[DSC680 -News](https://github.com/knmoses/DSC680-News)
+[Applied Data Science - News](https://github.com/knmoses/DSC680-News)
