@@ -7,10 +7,8 @@ date: 04 October 2020
 tags: [Python, Intro to Programming]
 ---
 
-Class: DSC 510 - Intro to Programming
-
 This project was created using Pythong and takes an input of a city or zip code and provides the current weather.
 
 More Information:
-[DSC510 - Weather Information](https://github.com/knmoses/DSC510-Weather)
+[Intro to Programming](https://github.com/knmoses/DSC510-Weather)
 
