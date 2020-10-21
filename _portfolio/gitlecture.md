@@ -7,4 +7,6 @@ date: 04 October 2020
 tags: [Python]
 ---
 
+More Information:
+
 [Project 3](https://github.com/knmoses/DSC680-Project3)
