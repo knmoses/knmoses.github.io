@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Project 3
-feature-img: "assets/img/portfolio/beer.png"
-img: "assets/img/portfolio/beer.png"
+feature-img: "assets/img/portfolio/Beer.png"
+img: "assets/img/portfolio/Beer.png"
 date: 04 October 2020
 tags: [Python, Jupyter Notebook]
 ---
