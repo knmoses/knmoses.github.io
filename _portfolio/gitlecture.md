@@ -4,8 +4,8 @@ title: Project 3
 feature-img: "assets/img/portfolio/github.png"
 img: "assets/img/portfolio/github.png"
 date: 04 October 2020
-tags: [Python]
+tags: [Python, Jupyter Notebook]
 ---
 
 More Information:
-[Project 3](https://github.com/knmoses/DSC680-Project3)
+[Craft Beer](https://github.com/knmoses/DSC680-Project3)
