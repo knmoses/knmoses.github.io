@@ -9,6 +9,6 @@ tags: [Python, EDA, Data Exploration and Analysis]
 
 This project focuses around Exploratoy Data Analysis within Python. It was created to determine the most common baby names of specific years and if there was a relationship between how many males and females born.
 
-More Information: 
-[GitHub](https://github.com/knmoses/DSC530-Names)
+GitHub: 
+[Names](https://github.com/knmoses/DSC530-Names)
 
