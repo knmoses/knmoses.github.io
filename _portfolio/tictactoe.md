@@ -9,5 +9,5 @@ tags: [R, Predictive Analytics]
 
 This project uses models in R to determine the outcome of if a person will develop diabetes based on certain variables.
 
-More Information:
-[Predictive Analytics - Diabetes](https://github.com/knmoses/DSC630-Diabetes)
+GitHub:
+[Diabetes](https://github.com/knmoses/DSC630-Diabetes)
