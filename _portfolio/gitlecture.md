@@ -7,5 +7,5 @@ date: 04 October 2020
 tags: [Python, Jupyter Notebook]
 ---
 
-More Information:
+GitHub:
 [Craft Beer](https://github.com/knmoses/DSC680-Project3)
