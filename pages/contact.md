@@ -17,8 +17,7 @@ Twitter: @KrystinaMoses
 
 <form
   action="https://formspree.io/f/xleobgqn"
-  method="POST"
->
+  method="POST">
   <label>
     Your email:
     <input type="text" name="_replyto">
@@ -27,8 +26,6 @@ Twitter: @KrystinaMoses
     Your message:
     <textarea name="message"></textarea>
   </label>
-
-  <!-- your other form fields go here -->
-
+ 
   <button type="submit">Send</button>
 </form>
