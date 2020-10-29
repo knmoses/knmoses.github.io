@@ -4,7 +4,7 @@ title: Contact
 subtitle:
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
-tags: [Contact]
+tags: [Contact, Email, Twitter, LinkedIn]
 ---
 
 Krystina Moses
