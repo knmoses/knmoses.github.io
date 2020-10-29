@@ -7,8 +7,8 @@ date: 04 October 2020
 tags: [Python, Intro to Programming]
 ---
 
-This project was created using Pythong and takes an input of a city or zip code and provides the current weather.
+The user inputs city or zip code to find out the current weather for a particular area. Once the code is downloaded, it is used in a command prompt.
 
 More Information:
-[Intro to Programming](https://github.com/knmoses/DSC510-Weather)
+[Weather Information](https://github.com/knmoses/DSC510-Weather)
 
