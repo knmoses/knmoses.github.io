@@ -7,7 +7,7 @@ date: 04 October 2020
 tags: [R, Statistics]
 ---
 
-This project looks at three different sets of data to answer the following questions within R:
+This project looks at three different sets of data to answer the following questions:
 
 * What is the spending amount compared to the age of the shopper?
 
