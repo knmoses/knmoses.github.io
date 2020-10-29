@@ -7,7 +7,7 @@ date: 04 October 2020
 tags: [Tableau, Python, Presentation, Visualization]
 ---
 
-Visual presentation on Airline vs Automobile Safety. Python and Tableau were used.
+Visual presentation on Airline vs Automobile Safety.
 
 GitHub:
 [Air vs Auto](https://github.com/knmoses/DSC640-Air-vs-Auto-Safety)
