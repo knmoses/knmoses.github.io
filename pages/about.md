@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 feature-img: "assets/img/pexels/orlando.jpg"
-tags: [About, Archive]
+tags: [About, Education, Employment]
 ---
 
 Krystina Moses
