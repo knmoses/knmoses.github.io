@@ -23,5 +23,5 @@ Twitter: @KrystinaMoses
                         <input type="submit" value="Send">
                         <input type="hidden" name="_subject" value="Enter your subject here" />
                         <input type="hidden" name="_next" value="thanks.html" />
-        </form>
-</body>
+                        </form>
+                        </body>
