@@ -4,7 +4,7 @@ title : Work
 permalink: /portfolio/
 subtitle: "Current Projects" 
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Archive]
+tags: [Work, Projects]
 ---
 
 {% include portfolio.html %}
