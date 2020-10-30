@@ -21,17 +21,15 @@ Twitter: @KrystinaMoses
 >
   <label>
     Your name:
-    <input type="text" name="name">
+    <input type="text" name="name"><br />
   </label>
-  
   <label>
     Your email:
-    <input type="text" name="_replyto">
+    <input type="text" name="_replyto"><br />
   </label>
-  
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea name="message"></textarea><br />
   </label>
 
   <!-- your other form fields go here -->
