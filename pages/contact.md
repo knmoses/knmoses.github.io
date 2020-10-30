@@ -20,9 +20,15 @@ Twitter: @KrystinaMoses
   method="POST"
 >
   <label>
+    Your name:
+    <input type="text" name="name">
+  </label>
+  
+  <label>
     Your email:
     <input type="text" name="_replyto">
   </label>
+  
   <label>
     Your message:
     <textarea name="message"></textarea>
