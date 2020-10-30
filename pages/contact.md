@@ -18,6 +18,7 @@ Twitter: @KrystinaMoses
 <form
   action="https://formspree.io/f/xleobgqn"
   method="POST"
+  enctype="multipart/form-data"
 >
   <label>
     Your name:
@@ -25,14 +26,12 @@ Twitter: @KrystinaMoses
   </label>
   <label>
     Your email:
-    <input type="text" name="_replyto"><br />
+    <input type="text" name="_replyto">
   </label>
   <label>
-    Your message:
-    <textarea name="message"></textarea><br />
+    Your file:
+    <input type="file" name="upload">
   </label>
-
-  <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
 </form>
