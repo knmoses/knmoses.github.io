@@ -28,10 +28,6 @@ Twitter: @KrystinaMoses
     Your email:
     <input type="text" name="_replyto">
   </label>
-  <label>
-    Your file:
-    <input type="file" name="upload">
-  </label>
 
   <button type="submit">Send</button>
 </form>
