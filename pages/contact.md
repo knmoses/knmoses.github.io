@@ -7,8 +7,11 @@ gallery_path: "assets/img/pexels"
 tags: [Contact, Email, Twitter, LinkedIn]
 ---
 
-**EMAIL:** krystina.moses@gmail.com
+**EMAIL:** 
+* krystina.moses@gmail.com
 
-**LinkedIn:** Krystina Moses
+**LinkedIn:** 
+* Krystina Moses
 
-**Twitter:** @KrystinaMoses
+**Twitter:** 
+* @KrystinaMoses
