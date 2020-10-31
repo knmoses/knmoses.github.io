@@ -6,12 +6,15 @@ feature-img: "assets/img/pexels/orlando.jpg"
 tags: [About, Education, Employment]
 ---
 
-Krystina Moses
+**_Krystina Moses_**
 
-Currently residing in Orlando, FL
+**Location:** 
+* Orlando, FL
 
-Internal Control Quality Assurance Associate at Walt Disney World
+**Employment:** 
+* Internal Control Quality Assurance Associate at Walt Disney World
 
-Salem State University, 2010 - BS Mathematics
+**Education:** 
+* Salem State University, 2010 - BS Mathematics
 
-Bellevue University, 2020 - MS Data Science
+* Bellevue University, 2020 - MS Data Science
