@@ -4,7 +4,7 @@ title: DSC 540
 feature-img: "assets/img/portfolio/toh.png"
 img: "assets/img/portfolio/toh.png"
 date: 04 October 2020
-tags: [Python]
+tags: [Python, Jupyter Notebook]
 ---
 GitHub: 
-[DSC540](https://github.com/knmoses/DSC540)
+[Hockey](https://github.com/knmoses/DSC540)
