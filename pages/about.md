@@ -18,3 +18,5 @@ tags: [About, Education, Employment]
 * Salem State University, 2010 - BS Mathematics
 
 * Bellevue University, 2020 - MS Data Science
+
+**Skills:**
