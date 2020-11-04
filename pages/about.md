@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+order: 2
 permalink: /about/
 feature-img: "assets/img/pexels/orlando.jpg"
 tags: [About, Education, Employment]
