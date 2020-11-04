@@ -36,6 +36,7 @@
             </li>
             {% endunless %}
             {% assign name_page = page.title | append: name_page %}
+	    {% assign pages_list = (site.pages | sort: 'order') %}
         {% endfor %}
     </ul>
 
