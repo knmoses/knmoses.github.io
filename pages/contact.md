@@ -3,7 +3,7 @@ layout: page
 title: Contact
 order: 3
 subtitle:
-permalink: /gallery/
+permalink: /contact/
 gallery_path: "assets/img/pexels"
 tags: [Contact, Email, Twitter, LinkedIn]
 ---
