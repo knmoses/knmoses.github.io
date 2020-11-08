@@ -21,3 +21,8 @@ tags: [About, Education, Employment]
 * Bellevue University, 2020 - MS Data Science
 
 **Skills:**
+* Microsoft Office
+
+* Python
+
+* R
