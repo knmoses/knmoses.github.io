@@ -11,7 +11,7 @@ tags: [Contact, Email, Twitter, LinkedIn]
 * krystina.moses@gmail.com
 
 **LinkedIn:** 
-* Krystina Moses
+* [Krystina Moses](https://www.linkedin.com/in/krystina-moses-a30a7731)
 
 **Twitter:** 
-* @KrystinaMoses
+* [@KrystinaMoses](https://twitter.com/KrystinaMoses)
