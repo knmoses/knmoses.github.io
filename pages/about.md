@@ -21,7 +21,7 @@ tags: [About, Education, Employment, SKills]
 * Bellevue University, 2020 - MS Data Science
 
 **Skills:**
-* Microsoft Office
+* Microsoft Office (Excel, Outlook, PowerPoint, Word)
 
 * Python
 
