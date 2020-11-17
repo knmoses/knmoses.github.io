@@ -26,3 +26,5 @@ tags: [About, Education, Employment, SKills]
 * Python
 
 * R
+
+[Resume](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:86669981-e27a-4209-9de3-9711ef70dda4)
