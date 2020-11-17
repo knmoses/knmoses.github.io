@@ -9,6 +9,8 @@ tags: [About, Education, Employment, SKills]
 
 **_Krystina Moses_**
 
+* [Resume](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8bd8f908-8b55-44f5-b318-fe7cf19e2264)
+
 **Location:** 
 * Orlando, FL
 
@@ -26,5 +28,3 @@ tags: [About, Education, Employment, SKills]
 * Python
 
 * R
-
-[Resume](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:86669981-e27a-4209-9de3-9711ef70dda4)
