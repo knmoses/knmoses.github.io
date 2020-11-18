@@ -3,7 +3,6 @@ layout: post
 title: Diabetes
 feature-img: "assets/img/portfolio/medical.png"
 img: "assets/img/portfolio/medical.png"
-date: 04 October 2020
 tags: [R, Predictive Analytics]
 ---
 
