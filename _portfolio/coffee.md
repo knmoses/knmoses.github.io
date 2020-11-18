@@ -7,7 +7,7 @@ date: 04 October 2020
 tags: [R, Predictive Analytics]
 ---
 
-This project determines the average monthly coffee price, per pound.
+This project determines the average monthly coffee price, per pound using R.
 
 GitHub: 
 [Coffee Prices](https://github.com/knmoses/DSC630-Coffee-Prices)
