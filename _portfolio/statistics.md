@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R
+title: Statistics
 feature-img: "assets/img/portfolio/stats.png"
 img: "assets/img/portfolio/stats.png"
 date: 04 October 2020
