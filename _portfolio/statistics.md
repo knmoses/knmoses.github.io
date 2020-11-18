@@ -3,7 +3,6 @@ layout: post
 title: Statistics
 feature-img: "assets/img/portfolio/stats.png"
 img: "assets/img/portfolio/stats.png"
-date: 04 October 2020
 tags: [R, Statistics]
 ---
 
