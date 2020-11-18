@@ -3,7 +3,6 @@ layout: post
 title: Craft Beer
 feature-img: "assets/img/portfolio/Beer.png"
 img: "assets/img/portfolio/Beer.png"
-date: 04 October 2020
 tags: [Python, Jupyter Notebook]
 ---
 
