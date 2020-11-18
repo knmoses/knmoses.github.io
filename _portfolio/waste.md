@@ -3,7 +3,6 @@ layout: post
 title: Waste and Pollution
 feature-img: "assets/img/portfolio/recycle.png"
 img: "assets/img/portfolio/recycle.png"
-date: 04 October 2020
 tags: [Python, Jupyter Notebook, Applied Data Science, EDA]
 ---
 
