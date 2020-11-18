@@ -23,7 +23,7 @@
 	
     <!-- Menu -->
     <ul class="hide">
-        {% assign name_page = "order" %}
+        {% assign name_page = "" %}
 	    
         {% for page in site.pages %}
             {% unless page.title == null or page.hide or name_page contains page.title %}
@@ -36,6 +36,7 @@
             </li>
             {% endunless %}
             {% assign name_page = page.title | append: name_page %}
+	    {% assign sorted_pages = page.title | sort:"order" %}
         {% endfor %}
     </ul>
 
