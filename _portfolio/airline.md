@@ -7,7 +7,7 @@ date: 04 October 2020
 tags: [Tableau, Python, Presentation, Visualization]
 ---
 
-This project looks at the airline and automobile industries and determines which one is safer. Within the repository you will find a collection of visualization presentations and blog posts.
+This project looks at the airline and automobile industries and determines which one is safer. Within the repository a collection of visualization presentations and blog posts can be found.
 
 GitHub:
 [Air vs Auto](https://github.com/knmoses/DSC640-Air-vs-Auto-Safety)
