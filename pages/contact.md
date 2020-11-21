@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Contact
-order: 3
-subtitle:
 permalink: /contact/
 tags: [Contact, Email, Twitter, LinkedIn]
 ---
